@@ -1,4 +1,4 @@
-# vue-login-form-challenge
+# typescript-vue-register-page
 
 ## Project setup
 ```
